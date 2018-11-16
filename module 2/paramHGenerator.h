@@ -1,0 +1,8 @@
+//jonah
+
+#ifndef GENERATIONH_PARAMHGENERATOR_H
+#define GENERATIONH_PARAMHGENERATOR_H
+
+#endif //GENERATIONH_PARAMHGENERATOR_H
+
+int generateParamH(int option);

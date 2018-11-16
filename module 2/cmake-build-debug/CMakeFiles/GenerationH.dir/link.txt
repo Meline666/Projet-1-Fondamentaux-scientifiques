@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/GenerationH.dir/main.c.o CMakeFiles/GenerationH.dir/menu.c.o CMakeFiles/GenerationH.dir/paramHGenerator.c.o  -o GenerationH 

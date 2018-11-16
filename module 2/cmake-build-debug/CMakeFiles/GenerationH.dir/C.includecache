@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jonah/Documents/Eixadocs/Projets/Projet 1/DEV module coeur/main/menu.h
+
+/home/jonah/Documents/Eixadocs/Projets/Projet 1/DEV module coeur/main/paramHGenerator.c
+stdio.h
+-
+paramHGenerator.h
+/home/jonah/Documents/Eixadocs/Projets/Projet 1/DEV module coeur/main/paramHGenerator.h
+menu.h
+/home/jonah/Documents/Eixadocs/Projets/Projet 1/DEV module coeur/main/menu.h
+
+/home/jonah/Documents/Eixadocs/Projets/Projet 1/DEV module coeur/main/paramHGenerator.h
+
